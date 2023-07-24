@@ -8,14 +8,14 @@
             </td>
             <td>
                 <a class="col-sm-2" href="https://github.com/Synell/App-Manager">
-                    <img src="https://img.shields.io/github/downloads/Synell/App-Manager/total?style=for-the-badge&logo=github&logoColor=white&label=APP%20MANAGER%20DOWNLOADS&labelColor=black&color=black" style="border-radius: 2vh; width: 100%"/>
+                    <img src="https://img.shields.io/github/downloads/Synell/App-Manager/total?style=for-the-badge&logo=github&logoColor=white&label=APP%20MANAGER%20DOWNLOADS&labelColor=black&color=black" border-radius="2vh" width="100%"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a class="col-sm-2" href="https://github.com/Synell/OGE-Next">
-                    <img src="https://img.shields.io/github/downloads/Synell/OGE-Next/total?style=for-the-badge&logo=github&logoColor=white&label=OGE%20NEXT%20DOWNLOADS&labelColor=black&color=black" style="border-radius: 2vh; width: 100%"/>
+                    <img src="https://img.shields.io/github/downloads/Synell/OGE-Next/total?style=for-the-badge&logo=github&logoColor=white&label=OGE%20NEXT%20DOWNLOADS&labelColor=black&color=black" border-radius="2vh" width="100%"/>
                 </a>
             </td>
         </tr>
@@ -44,6 +44,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" height="40" class="icons"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" class="icons"/>
 </div>
-
----
-
