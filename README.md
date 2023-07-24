@@ -1,26 +1,30 @@
-<div align="center">
-    <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0" align="center">
-        <tr>
-            <td rowspan="2" align="center">
-                <a href="https://synell.github.io/">
-                    <img src="https://avatars.githubusercontent.com/u/70210528?v=4" height="192px" width="192px" style="border-radius: 192px"/>
-                </a>
-            </td>
-            <td>
-                <a class="col-sm-2" href="https://github.com/Synell/App-Manager">
-                    <img src="https://img.shields.io/github/downloads/Synell/App-Manager/total?style=for-the-badge&logo=github&logoColor=white&label=APP%20MANAGER%20DOWNLOADS&labelColor=black&color=black" border-radius="2vh" width="100%"/>
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a class="col-sm-2" href="https://github.com/Synell/OGE-Next">
-                    <img src="https://img.shields.io/github/downloads/Synell/OGE-Next/total?style=for-the-badge&logo=github&logoColor=white&label=OGE%20NEXT%20DOWNLOADS&labelColor=black&color=black" border-radius="2vh" width="100%"/>
-                </a>
-            </td>
-        </tr>
-    </table>
-</div>
+<svg fill="none" viewBox="0 0 600 300" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+        <div align="center">
+            <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tr>
+                    <td rowspan="2" align="center">
+                        <a href="https://synell.github.io/">
+                            <img src="https://avatars.githubusercontent.com/u/70210528?v=4" height="192px" width="192px" style="border-radius: 192px"/>
+                        </a>
+                    </td>
+                    <td>
+                        <a class="col-sm-2" href="https://github.com/Synell/App-Manager">
+                            <img src="https://img.shields.io/github/downloads/Synell/App-Manager/total?style=for-the-badge&logo=github&logoColor=white&label=APP%20MANAGER%20DOWNLOADS&labelColor=black&color=black" style="border-radius: 2vh; width: 100%"/>
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a class="col-sm-2" href="https://github.com/Synell/OGE-Next">
+                            <img src="https://img.shields.io/github/downloads/Synell/OGE-Next/total?style=for-the-badge&logo=github&logoColor=white&label=OGE%20NEXT%20DOWNLOADS&labelColor=black&color=black" style="border-radius: 2vh; width: 100%"/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </foreignObject>
+</svg>
 
 # Hi, I'm Synel! 👋
 
