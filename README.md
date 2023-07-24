@@ -32,7 +32,11 @@
 
 
 <div align="center" style="margin: 20px">
-    <style>.icons { margin: 0 5px; }</style>
+    <style>
+        .icons {
+            margin: 0 5px;
+        }
+    </style>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" class="icons"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" class="icons"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" class="icons"/>
