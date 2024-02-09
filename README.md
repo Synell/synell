@@ -56,11 +56,6 @@
 <div align="center">
 
 [![Synel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Synell&theme=tokyonight&show_icons=true&rank_icon=default&custom_title=My%20GitHub%20Stats)](https://github.com/Synell/github-readme-stats)
-
-</div>
-
-<div align="center">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Synell&layout=compact&theme=tokyonight&show_icons=true&custom_title=My%20Most%20Used%20Languages)](https://github.com/Synell/github-readme-stats)
 
 </div>
@@ -72,15 +67,12 @@
 <div align="center">
 
 [![NSMBW Custom Sprites](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=NSMBW-Custom-Sprites)](https://github.com/Synell/NSMBW-Custom-Sprites)
-
 [![App Manager](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=App-Manager)](https://github.com/Synell/App-Manager)
 
 [![Sparkamek](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=Sparkamek)](https://github.com/Synell/Sparkamek)
-
 [![Sparkamek Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=Sparkamek-Terminal)](https://github.com/Synell/Sparkamek-Terminal)
 
 [![OGE Next](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=OGE-Next)](https://github.com/Synell/OGE-Next)
-
 [![PERT Maker](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=PERT-Maker)](https://github.com/Synell/PERT-Maker)
 
 </div>
