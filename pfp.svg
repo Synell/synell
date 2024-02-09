@@ -1,6 +1,4 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192">
     <!-- <image x="0" y="0" width="192" height="192" xlink:href="https://avatars.githubusercontent.com/u/70210528?v=4" clip-path="inset(0% round 192px)"/> -->
-    <foreignObject x="0" y="0" width="192px" height="192px">
-        <img width="192px" height="192px" src="https://avatars.githubusercontent.com/u/70210528?v=4" style="border-radius: 50%"/>
-    </foreignObject>
+    <img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/70210528?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
 </svg>
