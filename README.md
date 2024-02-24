@@ -37,7 +37,7 @@
 - Pretty much a fullstack developer but I prefer frontend, as I like making things look pretty.
 - I like making apps with PySide6 or random stuff with python. I'm also learning C#, C++ and PowerPC Assembly for some projects you can find on my [website](https://synell.github.io/).
 - I like making websites with HTML, CSS, and JS.
-- I'm currently working on [App Manager](https://github.com/Synell/App-Manager), [OGE Next](https://github.com/Synell/OGE-Next) and [Sparkamek](https://github.com/Synell/Sparkamek)
+- I'm currently working on [Sparkamek](https://github.com/Synell/Sparkamek) and *[Yoshiki](https://github.com/Synell/Yoshiki) (this repo is private for now, it'll become public when the first release will be available)*.
 - Always looking for new things to learn!
 
 
