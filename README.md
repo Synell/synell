@@ -22,8 +22,8 @@
         </tr>
         <tr>
             <td>
-                <a class="col-sm-2" href="https://github.com/Synell/Sparkamek">
-                    <img src="https://img.shields.io/github/downloads/Synell/Sparkamek/total?style=for-the-badge&logo=github&logoColor=white&label=SPARKAMEK%20DOWNLOADS&labelColor=black&color=black" width="100%" style="border-radius: 2vh;"/>
+                <a class="col-sm-2" href="https://github.com/Developers-Collective/Sparkamek">
+                    <img src="https://img.shields.io/github/downloads/Developers-Collective/Sparkamek/total?style=for-the-badge&logo=github&logoColor=white&label=SPARKAMEK%20DOWNLOADS&labelColor=black&color=black" width="100%" style="border-radius: 2vh;"/>
                 </a>
             </td>
         </tr>
@@ -37,7 +37,7 @@
 - Pretty much a fullstack developer but I prefer frontend, as I like making things look pretty.
 - I like making apps with PySide6 or random stuff with python. I'm also learning C#, C++ and PowerPC Assembly for some projects you can find on my [website](https://synell.github.io/).
 - I like making websites with HTML, CSS, and JS.
-- I'm currently working on [Sparkamek](https://github.com/Synell/Sparkamek) and *[Yoshiki](https://github.com/Synell/Yoshiki) (this repo is private for now, it'll become public when the first release will be available)*.
+- I'm currently working on [Sparkamek](https://github.com/Developers-Collective/Sparkamek) and *[Yoshiki](https://github.com/Synell/Yoshiki) (this repo is private for now, it'll become public when the first release will be available)*.
 - Always looking for new things to learn!
 
 
@@ -66,11 +66,11 @@
 
 <div align="center">
 
-[![NSMBW Custom Sprites](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=NSMBW-Custom-Sprites)](https://github.com/Synell/NSMBW-Custom-Sprites)
+[![NSMBW Custom Sprites](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=NSMBW-Custom-Sprites)](https://github.com/Developers-Collective/NSMBW-Custom-Sprites)
 [![App Manager](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=App-Manager)](https://github.com/Synell/App-Manager)
 
-[![Sparkamek](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=Sparkamek)](https://github.com/Synell/Sparkamek)
-[![Sparkamek Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=Sparkamek-Terminal)](https://github.com/Synell/Sparkamek-Terminal)
+[![Sparkamek](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=Sparkamek)](https://github.com/Developers-Collective/Sparkamek)
+[![Sparkamek Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=Sparkamek-Terminal)](https://github.com/Developers-Collective/Sparkamek-Terminal)
 
 [![OGE Next](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=OGE-Next)](https://github.com/Synell/OGE-Next)
 [![PERT Maker](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=PERT-Maker)](https://github.com/Synell/PERT-Maker)
