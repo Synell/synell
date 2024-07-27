@@ -66,7 +66,7 @@
 
 <div align="center">
 
-[![NSMBW Custom Sprites](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=NSMBW-Custom-Sprites)](https://github.com/Developers-Collective/NSMBW-Custom-Sprites)
+[![NSMBW Custom Sprites](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=NSMBW-Custom-Sprites)](https://github.com/Synell/NSMBW-Custom-Sprites)
 [![App Manager](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=App-Manager)](https://github.com/Synell/App-Manager)
 
 [![Sparkamek](https://github-readme-stats.vercel.app/api/pin/?username=Synell&theme=tokyonight&repo=Sparkamek)](https://github.com/Developers-Collective/Sparkamek)
